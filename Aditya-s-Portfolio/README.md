@@ -23,7 +23,7 @@ This project showcases my skills in front-end development with modern UI/UX prac
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/Aditya-Gopal-Nayak/Portfolio]
 cd your-repo-name
 ````
 
